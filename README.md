@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java array traversal. The code attempts to iterate over an array using a loop with a condition that includes the upper bound, leading to an index out-of-bounds exception. The solution provided demonstrates how to correct this error by using a strict less than condition for the loop.
